@@ -65,7 +65,7 @@ Foley, Michael, and Bob Edwards. "Beyond Tocqueville: Civil Society and Social C
 
 Hann, Chris. Introduction in *Civil Society: Challenging Western Models*. Edited by Hann and Dunn. New York, NY: Routledge, 1996. ISBN: 9780415132183.
 
-Hall, Peter Dobkin. "A Historical Overview of Philanthropy, Voluntary Associations, and Nonprofit Organizations in the United States, 1600-2000." Hauser Center for Nonprofit Organizations. To be published in *The Nonprofit Sector: A Research Handbook*, 2nd ed. Edited by W.W. Powell & R. Steinberg. New Haven, CT: Yale University Press, in preparation. ({{% resource_link "09a6b36c-7485-4414-b041-4c9c8caf22e8" "PDF" %}})
+Hall, Peter Dobkin. "A Historical Overview of Philanthropy, Voluntary Associations, and Nonprofit Organizations in the United States, 1600-2000." Hauser Center for Nonprofit Organizations. To be published in *The Nonprofit Sector: A Research Handbook*, 2nd ed. Edited by W.W. Powell & R. Steinberg. New Haven, CT: Yale University Press, in preparation. ([PDF](https://pdfs.semanticscholar.org/c472/5cb13c4b71089bf80e7857ad61e1dc11441c.pdf?_ga=2.52872300.532699534.1568221878-350331634.1567174238))
 
 Weller, Robert. Chapters 2, and 5 in *Alternate Civilities: Democracy and Culture in China and Taiwan*. Boulder, CO: Westview Press, 2001. ISBN: 9780813339313.
 
@@ -221,7 +221,7 @@ Narayan, Deepa. "Bonds and Bridges: Social Capital and Poverty." World Bank, Jul
 
 Lam, Wai Fung. "Institutional Design of Public Agencies and Coproduction: A Study of Irrigation Associations in Taiwan." In *State-Society Synergy: Government and Social Capital in Development.* Berkeley, CA: University of California Press, 1997. ISBN: 9780877251941.
 
-Miguel, Edward, and Mary Kay Gugerty. "Ethnic Diversity, Social Sanctions, and Public Goods Provision in Kenya." August 2004. ({{% resource_link "e24106d8-f650-4694-9153-5fd9fc43e2bb" "PDF" %}})
+Miguel, Edward, and Mary Kay Gugerty. "Ethnic Diversity, Social Sanctions, and Public Goods Provision in Kenya." August 2004. ([PDF](http://emiguel.econ.berkeley.edu/assets/miguel_research/42/_Paper__Ethnic_Diversity__Social_Sanctions__and_Public_Goods_in_Kenya.pdf))
 
 Tsai, Lily L. "Cadres, Temple and Lineage Institutions, and Governance in Rural China." *The China Journal* 48 (2002): 1-27
 
@@ -237,7 +237,7 @@ International Politics and Globalization
 
 Chapter 1 in *Global Civil Society 2001*. Edited by Helmut Anheier, Marlies Glasius, and Mary Kaldor. New York, NY: Oxford University Press, 2003. ISBN: 9780199251681.
 
-Jamwal, N. S. "{{% resource_link "5678b91b-697c-4adc-aef8-1232e379e066" "Hawala - The Invisible Financing System of Terrorism" %}}." *Day After India,* December 16-31, 2002.
+Jamwal, N. S. "[Hawala - The Invisible Financing System of Terrorism](http://www.jstor.org/pss/3867818)." *Day After India,* December 16-31, 2002.
 
 Schramm, Matthias, and Markus Taube. "Evolution and Institutional Foundation of the Hawala Financial System." *Report,* *German Institute for Economic Research, DIW-Berlin.* June 2002.
 
